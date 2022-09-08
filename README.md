@@ -30,7 +30,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Screenshots
 Homepage:
-![](../easy-note-taker/Develop/public/assets/images/easy-note-1.png)
+![](/public/assets/images/easy-note-1.png)
 Note Taker:
-![](../easy-note-taker/Develop/public/assets/images/easy-note-2.png)
-![](../easy-note-taker/Develop/public/assets/images/easy-note-3.png)
+![](/public/assets/images/easy-note-2.png)
+![](/public/assets/images/easy-note-3.png)
+
+## Links
+<a href="https://easy-note-taker-2022.herokuapp.com/" target="_blank">Heroku Application</a>
